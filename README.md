@@ -13,7 +13,7 @@ React frontend for [HospitalRun](http://hospitalrun.io/): free software for deve
 
 ---
 
-# Are you a user? If yes...
+# Are you a user? If yes... (I THINK SO)
 
 [Visit this page for general information on the HospitalRun application](https://github.com/HospitalRun/hospitalrun/blob/master/README.md) including:
 
